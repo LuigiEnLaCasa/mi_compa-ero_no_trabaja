@@ -1,0 +1,3 @@
+usuario,contrasena,nombre,apellido,numCedula,fechaNacimiento,nacionalidad,fotoCedula,celular,correo,numLicencia,paisLicencia,vencimientoLicencia,fotoLicencia,nombreTarjeta,numTarjeta,fotoTarjeta,bloqueada
+pinochin, qwerty, Pinocho, Carnal, 1000, null,Italiano, null, 12345, mentirosito@gmail.com, 65432, Italia, null, null, Pinocho Carnal, 62454, null, false
+Cenicienta123, qwerty, Cenicienta, disney, 1001, null, alemana, null, 6543, algo@gmail.com, 654, Alemania, null, null, Cenicienta Disney, 543354, null, true
